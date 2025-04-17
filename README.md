@@ -59,10 +59,10 @@ LIMIT 3;
 ## 📸 Output Screenshots
 
 🔹 Monthly Revenue & Order Volume  
-![Monthly Revenue](screenshots/monthly_revenue_and_orders.png)
+https://github.com/sanchshejwal01/Elevate-labs-task-6/blob/main/Monthly%20Revenue%20%26%20Order%20Volume%20by%20Month.png
 
  
 
 🔹 Top 3 Months by Revenue  
-![Top 3 Months](screenshots/top_3_months_by_sales.png)
+
  
